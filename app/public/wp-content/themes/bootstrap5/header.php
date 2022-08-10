@@ -41,5 +41,3 @@ wp_head();
         </div>
     </div>
 </nav>
-
-<div> test met git add </div>
