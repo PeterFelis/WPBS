@@ -1,0 +1,22 @@
+[08-Aug-2022 14:50:31 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Verko\Local Sites\theme\app\public\wp-content\themes\peter-child\functions.php on line 6
+[08-Aug-2022 14:52:32 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Verko\Local Sites\theme\app\public\wp-content\themes\peter-child\functions.php on line 6
+[08-Aug-2022 14:58:20 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Verko\Local Sites\theme\app\public\wp-content\themes\peter-child\functions.php on line 13
+[08-Aug-2022 14:58:39 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Verko\Local Sites\theme\app\public\wp-content\themes\peter-child\functions.php on line 13
+[08-Aug-2022 14:58:49 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Verko\Local Sites\theme\app\public\wp-content\themes\peter-child\functions.php on line 13
+[09-Aug-2022 11:37:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Verko\Local Sites\theme\app\public\wp-includes\script-loader.php on line 2781
+[09-Aug-2022 11:37:56 UTC] PHP Stack trace:
+[09-Aug-2022 11:37:56 UTC] PHP   1. {main}() C:\Users\Verko\Local Sites\theme\app\public\index.php:0
+[09-Aug-2022 11:37:56 UTC] PHP   2. require() C:\Users\Verko\Local Sites\theme\app\public\index.php:17
+[09-Aug-2022 11:37:56 UTC] PHP   3. require_once() C:\Users\Verko\Local Sites\theme\app\public\wp-blog-header.php:19
+[09-Aug-2022 11:37:56 UTC] PHP   4. include() C:\Users\Verko\Local Sites\theme\app\public\wp-includes\template-loader.php:106
+[09-Aug-2022 11:37:56 UTC] PHP   5. get_footer() C:\Users\Verko\Local Sites\theme\app\public\wp-content\themes\peter\index.php:8
+[09-Aug-2022 11:37:56 UTC] PHP   6. locate_template() C:\Users\Verko\Local Sites\theme\app\public\wp-includes\general-template.php:92
+[09-Aug-2022 11:37:56 UTC] PHP   7. load_template() C:\Users\Verko\Local Sites\theme\app\public\wp-includes\template.php:716
+[09-Aug-2022 11:37:56 UTC] PHP   8. require_once() C:\Users\Verko\Local Sites\theme\app\public\wp-includes\template.php:770
+[09-Aug-2022 11:37:56 UTC] PHP   9. wp_footer() C:\Users\Verko\Local Sites\theme\app\public\wp-content\themes\peter\footer.php:10
+[09-Aug-2022 11:37:56 UTC] PHP  10. do_action() C:\Users\Verko\Local Sites\theme\app\public\wp-includes\general-template.php:3058
+[09-Aug-2022 11:37:56 UTC] PHP  11. WP_Hook->do_action() C:\Users\Verko\Local Sites\theme\app\public\wp-includes\plugin.php:476
+[09-Aug-2022 11:37:56 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\Verko\Local Sites\theme\app\public\wp-includes\class-wp-hook.php:331
+[09-Aug-2022 11:37:56 UTC] PHP  13. wp_maybe_inline_styles() C:\Users\Verko\Local Sites\theme\app\public\wp-includes\class-wp-hook.php:307
+[10-Aug-2022 13:50:57 UTC] PHP Parse error:  syntax error, unexpected 'wp_head' (T_STRING) in C:\Users\Verko\Local Sites\theme\app\public\wp-content\themes\bootstrap5\header.php on line 5
+[10-Aug-2022 14:54:31 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Verko\Local Sites\theme\app\public\wp-content\themes\bootstrap5\header.php on line 6
